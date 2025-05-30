@@ -40,3 +40,4 @@ logging:
     reactor.netty: trace
     org.springframework.cloud.gateway: trace
     org.springframework.http.server.reactive: trace
+    org.zalando.loogbook: trace
